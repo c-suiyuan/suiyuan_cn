@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Scrolling background text">
+  <rect width="1200" height="320" fill="#ffffff"/>
+
+  <g opacity="0.28" font-family="Arial Black, Arial, sans-serif" font-weight="900">
+
+    <g transform="rotate(-6 600 44)">
+      <g transform="translate(-600 0)">
+        <text y="44" font-size="34" fill="#a1a1aa" letter-spacing="-1">SUIYUAN APPRECIATION ZONE ZERO JUSTICE WILL PREVAIL NEVER FORGET YOUR DREAM&nbsp;&nbsp;SUIYUAN APPRECIATION ZONE ZERO JUSTICE WILL PREVAIL NEVER FORGET YOUR DREAM&nbsp;&nbsp;</text>
+        <animateTransform attributeName="transform" type="translate" values="-600 0;0 0;-600 0" dur="35s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <g transform="rotate(4 600 92)">
+      <g transform="translate(-600 0)">
+        <text y="92" font-size="28" fill="#64748b" letter-spacing="-1">BELIEVE IN YOURSELF LIGHT BEATS DARKNESS SHINZO SASAGEYO HERO KNIGHT&nbsp;&nbsp;BELIEVE IN YOURSELF LIGHT BEATS DARKNESS SHINZO SASAGEYO HERO KNIGHT&nbsp;&nbsp;</text>
+        <animateTransform attributeName="transform" type="translate" values="-600 0;0 0;-600 0" dur="40s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <g>
+      <g transform="translate(-600 0)">
+        <text y="148" font-size="40" fill="#71717a" letter-spacing="2">ZENLESS ZONE ZERO CHUANSHI RISHI MENG&nbsp;&nbsp;ZENLESS ZONE ZERO CHUANSHI RISHI MENG&nbsp;&nbsp;</text>
+        <animateTransform attributeName="transform" type="translate" values="-600 0;0 0;-600 0" dur="32s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <g transform="rotate(-3 600 196)">
+      <g transform="translate(-600 0)">
+        <text y="196" font-size="26" fill="#94a3b8" letter-spacing="-0.5">SUIYUAN KNIGHT DREAM SURMON CODE INSIGHT NEVER GIVE UP&nbsp;&nbsp;SUIYUAN KNIGHT DREAM SURMON CODE INSIGHT NEVER GIVE UP&nbsp;&nbsp;</text>
+        <animateTransform attributeName="transform" type="translate" values="-600 0;0 0;-600 0" dur="38s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <g transform="rotate(5 600 252)">
+      <g transform="translate(-600 0)">
+        <text y="252" font-size="30" fill="#a8a29e">KIDS HERO JUSTICE ZZZ EMPTY CALIBER SHINZO SASAGEYO&nbsp;&nbsp;KIDS HERO JUSTICE ZZZ EMPTY CALIBER SHINZO SASAGEYO&nbsp;&nbsp;</text>
+        <animateTransform attributeName="transform" type="translate" values="-600 0;0 0;-600 0" dur="36s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+  </g>
+</svg>
