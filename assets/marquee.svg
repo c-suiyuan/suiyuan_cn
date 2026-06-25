@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+  <style>
+    @keyframes scroll-left {
+      from { transform: translateX(0); }
+      to { transform: translateX(-50%); }
+    }
+    @keyframes scroll-right {
+      from { transform: translateX(-50%); }
+      to { transform: translateX(0); }
+    }
+    .row {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      white-space: pre;
+    }
+    .scroll-left { animation: scroll-left linear infinite; }
+    .scroll-right { animation: scroll-right linear infinite; }
+    .r1 { animation-duration: 38s; }
+    .r2 { animation-duration: 32s; }
+    .r3 { animation-duration: 44s; }
+    .r4 { animation-duration: 36s; }
+    .r5 { animation-duration: 40s; }
+  </style>
+
+  <defs>
+    <clipPath id="clip">
+      <rect width="1200" height="260" fill="white"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="260" fill="#ffffff"/>
+
+  <g clip-path="url(#clip)">
+    <g class="scroll-left r1" transform="translate(0, 42)">
+      <g class="row">
+        <text y="0" font-size="46" font-weight="900" fill="#1a1a1a">SUIYUAN · ZENLESS ZONE ZERO · JUSTICE WILL PREVAIL · NEVER FORGET YOUR DREAM · BELIEVE IN YOURSELF · </text>
+        <text y="0" x="2100" font-size="46" font-weight="900" fill="#1a1a1a">SUIYUAN · ZENLESS ZONE ZERO · JUSTICE WILL PREVAIL · NEVER FORGET YOUR DREAM · BELIEVE IN YOURSELF · </text>
+      </g>
+    </g>
+
+    <g class="scroll-right r2" transform="translate(0, 88)">
+      <g class="row">
+        <text y="0" font-size="34" font-weight="700" fill="#8b8b8b">SHINZO SASAGEYO · HERO KNIGHT · CODE INSIGHT · NEVER GIVE UP · KEEP LEARNING · BUILD THE FUTURE · </text>
+        <text y="0" x="1850" font-size="34" font-weight="700" fill="#8b8b8b">SHINZO SASAGEYO · HERO KNIGHT · CODE INSIGHT · NEVER GIVE UP · KEEP LEARNING · BUILD THE FUTURE · </text>
+      </g>
+    </g>
+
+    <g class="scroll-left r3" transform="translate(0, 128)">
+      <g class="row">
+        <text y="0" font-size="40" font-weight="800" fill="#3d3d3d">DREAM SURMON · CHUANSHI RISHI MENG · SUIYUAN KNIGHT · STAY CURIOUS · CREATE MORE · </text>
+        <text y="0" x="1750" font-size="40" font-weight="800" fill="#3d3d3d">DREAM SURMON · CHUANSHI RISHI MENG · SUIYUAN KNIGHT · STAY CURIOUS · CREATE MORE · </text>
+      </g>
+    </g>
+
+    <g class="scroll-right r4" transform="translate(0, 172)">
+      <g class="row">
+        <text y="0" font-size="30" font-weight="600" fill="#a3a3a3">APPRECIATION ZONE ZERO · JUSTICE WILL PREVAIL · BELIEVE IN YOURSELF · SHINZO SASAGEYO · </text>
+        <text y="0" x="1680" font-size="30" font-weight="600" fill="#a3a3a3">APPRECIATION ZONE ZERO · JUSTICE WILL PREVAIL · BELIEVE IN YOURSELF · SHINZO SASAGEYO · </text>
+      </g>
+    </g>
+
+    <g class="scroll-left r5" transform="translate(0, 214)">
+      <g class="row">
+        <text y="0" font-size="36" font-weight="800" fill="#2b2b2b">SUIYUAN · CODE · DREAM · INSIGHT · NEVER GIVE UP · HERO KNIGHT · ZENLESS ZONE ZERO · </text>
+        <text y="0" x="1920" font-size="36" font-weight="800" fill="#2b2b2b">SUIYUAN · CODE · DREAM · INSIGHT · NEVER GIVE UP · HERO KNIGHT · ZENLESS ZONE ZERO · </text>
+      </g>
+    </g>
+  </g>
+</svg>
